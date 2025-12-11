@@ -1,0 +1,6 @@
+streamlit
+pandas
+paho-mqtt
+plotly
+streamlit-option-menu
+numpy
